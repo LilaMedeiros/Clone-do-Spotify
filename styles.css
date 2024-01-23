@@ -45,3 +45,11 @@ body {
     font-size: 14px;
     font-family: "DM Sans", sans-serif;
 }
+
+.book li a {
+    color: #b3b3b3;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 14px;
+    font-family: "DM Sans", sans-serif;
+}
